@@ -1,0 +1,13 @@
+simulation:
+  steps: 120
+  replications: 100
+  seed_start: 1
+
+population:
+  households: 500
+  firms: 30
+
+shock:
+  start: 25
+  end: 36
+  transfer: 0.0
